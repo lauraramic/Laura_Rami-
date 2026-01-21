@@ -6,21 +6,24 @@ width: 600px;
 background-color: bisque;
 padding: 20px;
 }
-.paragraf_2{color: aquamarine;}
+.paragraf_2{color: rgb(221, 93, 142); background-color: bisque;}
+.novi_blok{
+    background-color: bisque;
+    padding: 20px;
+    margin: 20px;
+    width: 50%;
+}
 h1, h2{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;color: rgb(150, 4, 255);
 }
 
 span{color: red;}
 
-body{
+body{background-image: url(slike/slika\ 5.avif);}
 
-    background-image: url(slike/slika\ 5.avif);
-}
-.drugapozadina{
+ .drugapozadina{
+    background-color: bisque;}
 
-    background-color: cornsilk;
-}
 a:link{
     color: black;
     background-color: white;
